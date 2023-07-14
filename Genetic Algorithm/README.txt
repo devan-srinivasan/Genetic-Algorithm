@@ -1,5 +1,5 @@
 This program is a simulation of the genetic algorithm, otherwise known as the natural selection
-algorithm. It shows how a population of entities can learn to reach a goal by following a set algorithm.
+algorithm. It shows how a population of agents can learn to reach a goal by following a set algorithm.
 The algorithm works as follows:
 1) create a population of agents (dots in this case) that move randomly
 2) calculate the fitness score of each agent based on its proximity to a goal
